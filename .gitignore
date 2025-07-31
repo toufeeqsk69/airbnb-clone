@@ -2,3 +2,12 @@
 api/node_modules
 api/.env
 api/uploads/*
+api/yarn.lock
+api/package-lock.json
+client/node_modules
+client/.env
+cleint/yarn.lock
+client/package-lock.json
+client/postcss.config.js
+client/tailwind.config.js
+cleint/vite.config.js
